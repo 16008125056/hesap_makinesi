@@ -18,7 +18,8 @@ Her işlem için ayrı `.cpp` dosyaları kullanılarak kod düzenli bir şekilde
    g++ toplama_carpma.cpp cikarma_bolme.cpp -o hesap_makinesi
    ./hesap_makinesi
 
-   ## 👥 Hazırlayanlar
+
+ ## 👥 Hazırlayanlar
 - 16008125056 - Recep Efe Bıçakçı  
 - 16008125028 - Tuğra Ayvalıoğlu
 
