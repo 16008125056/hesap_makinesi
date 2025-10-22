@@ -8,9 +8,10 @@ Program, toplama, çıkarma, çarpma, bölme ve mod alma işlemlerini fonksiyonl
 Her işlem için ayrı `.cpp` dosyaları kullanılarak kod düzenli bir şekilde yapılandırılmıştır.
 
 ## 👥 Ekip Çalışması
-- **1. Kişi:** Toplama ve çarpma fonksiyonlarını yazdı (`toplama_carpma.cpp`)
-- **2. Kişi:** Çıkarma ve bölme fonksiyonlarını yazdı (`cikarma_bolme.cpp`)
-- **3. Kişi:** Mod alma fonksiyonunu yazdı (`modAlma.cpp`)
+- **1. Kişi:** Toplama ve çarpma fonksiyonlarını yazdı. (`toplama_carpma.cpp`)
+- **2. Kişi:** Çıkarma ve bölme fonksiyonlarını yazdı. (`cikarma_bolme.cpp`)
+- **3. Kişi:** Mod alma fonksiyonunu yazdı.
+ (`modAlma.cpp`)
 
  ## 👥 Hazırlayanlar
 - 16008125056 - Recep Efe Bıçakçı  
