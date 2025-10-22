@@ -22,4 +22,5 @@ Her işlem için ayrı `.cpp` dosyaları kullanılarak kod düzenli bir şekilde
  ## 👥 Hazırlayanlar
 - 16008125056 - Recep Efe Bıçakçı  
 - 16008125028 - Tuğra Ayvalıoğlu
+- 16008125074 - Adem Tuğra İslamoğlu
 
