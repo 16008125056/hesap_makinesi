@@ -4,7 +4,7 @@ Bu proje, C++ diliyle yazılmış basit bir hesap makinesidir.
 Kullanıcıdan iki sayı ve bir işlem türü (+, -, *, /) alır ve sonucu ekrana yazar.
 
 ## 🧩 Amaç
-Program, toplama, çıkarma, çarpma ve bölme işlemlerini fonksiyonlar halinde gerçekleştirir.  
+Program, toplama, çıkarma, çarpma, bölme ve mod alma işlemlerini fonksiyonlar halinde gerçekleştirir.  
 Her işlem için ayrı `.cpp` dosyaları kullanılarak kod düzenli bir şekilde yapılandırılmıştır.
 
 ## 👥 Ekip Çalışması
