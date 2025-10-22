@@ -10,14 +10,7 @@ Her işlem için ayrı `.cpp` dosyaları kullanılarak kod düzenli bir şekilde
 ## 👥 Ekip Çalışması
 - **1. Kişi:** Toplama ve çarpma fonksiyonlarını yazdı (`toplama_carpma.cpp`)
 - **2. Kişi:** Çıkarma ve bölme fonksiyonlarını yazdı (`cikarma_bolme.cpp`)
-
-## 🚀 Nasıl Çalıştırılır
-1. Proje dosyalarını aynı klasöre koyun.  
-2. C++ derleyicisiyle aşağıdaki komutu çalıştırın:
-   ```bash
-   g++ toplama_carpma.cpp cikarma_bolme.cpp -o hesap_makinesi
-   ./hesap_makinesi
-
+- **3. Kişi:** Mod alma fonksiyonunu yazdı (`modAlma.cpp`)
 
  ## 👥 Hazırlayanlar
 - 16008125056 - Recep Efe Bıçakçı  
